@@ -6,4 +6,4 @@ In this repository, you'll find the Syllabus, Lecture Slides, and other files ne
 
 **Read** the Syllabus!
 
-**Check Blackboard** for announcements and your grades!
+**Check Classes** for announcements and your grades!
